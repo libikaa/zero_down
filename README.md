@@ -6,3 +6,4 @@ I have performed queries based on the data.
 Using that output of that query I have made visualization using chart.js by connecting frontend and backend using REST api.
 
 I have also many ideas for performing query.
+But due to time constraint I have performed only few.
